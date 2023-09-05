@@ -1,1 +1,7 @@
-123
+git remote add origin (https://github.com/KhaleuMancini/aulinha1.2.git (exemplo)) = adiciona a origem do repositorio
+
+git branch  -M main = pra renomear a branch que voce quer enviar para "main" pq ela começa como "master"
+
+
+
+git push -u origin main = manda a branch "main" pro ponto de origem definido antes
